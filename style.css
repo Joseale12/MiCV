@@ -1,0 +1,98 @@
+*{
+    font-family: Arial,sans-serif;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+
+.image-profile{
+    width: 230px;
+    height: 230px;
+    margin-left: 15px;
+    border-radius: 1000px;
+    cursor: pointer;
+    position: relative;
+}
+.perfil .name{ 
+    font-size: 50px;
+    font-weight: bold;
+    display: inline-block;
+    vertical-align: 0cm;
+    line-height: 250px;
+    margin-left: 150px;
+    color:#2C5579;
+text-decoration: underline;
+position: absolute;
+    }
+.Contenidoinformacion{
+  float: right;
+  margin-right: 400px;
+  
+
+}
+.iconos{
+    margin: 10px;
+    float: left;
+    height: 400px;
+    width: 400px; 
+    position: relative; 
+    line-height: 90px; 
+    margin-top: 100px;
+    padding: 10px;
+    
+
+   
+}
+
+
+.iconos p{
+   display: inline-block;
+    /* vertical-align: top; */
+    margin-left: 10px;
+    font-size: 20px;
+    vertical-align: 0.3cm;
+}
+hr{
+    font-size: bold;
+    height: 10px;
+    background-color:#2C5579;
+}
+.title{
+    width: 30%;
+    margin-left: 40%;
+}
+.encabezado{
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    margin-left: 0;
+    position: relative;
+    
+}
+h2{
+    text-decoration: underline;
+}
+.map{
+    color:rgb(156, 4, 4);
+}
+.phone{
+color:green;
+}
+.mail{
+color:rgb(66, 66, 245);
+}
+.encabezado1{
+   position: absolute;
+   width: 350px;
+   height: 380px;
+   top: 40px; 
+}
+.inferior{
+    position: relative;
+    left: 1000px;
+    width: 400px;
+    height: 400px;
+}
